@@ -28,6 +28,8 @@ class CodeWarrior():
         Returns: an __init__ function should not include a Return statement!
         """
         pass
+    # THIS IS FUN :)
+
 
     def pick_up_item(self, item_name: str):
         """Appends an item to the player's inventory. Max number of inventory 
